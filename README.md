@@ -11,3 +11,10 @@ Welcome to my GitHub profile. Here, you can find some basic information about me
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a big music nerd 🎶
 
+#### You can ask me about
+
+> Don't hesitate to contact me regarding one of these topics. I always love to chat about them ;)
+
+- 🧠 Federated Learning
+- 👷‍♂️ ML Ops 
+- 🦾 The latest AI architecture
