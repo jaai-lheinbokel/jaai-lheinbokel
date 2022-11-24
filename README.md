@@ -13,7 +13,7 @@ Welcome to my GitHub profile. I'm Lennart and have been working at @justaddai si
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a big music nerd 🎶
 
-#### You can ask me about
+#### 🎙 Ask me about
 
 > Don't hesitate to contact me regarding one of these topics. I always love to chat about them ;)
 
