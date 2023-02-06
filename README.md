@@ -10,13 +10,12 @@ Welcome to my GitHub profile. I'm Lennart and have been working at @justaddai si
 - ♥️ I'm super passionate about all things AI
 - 💬 Ask me about: Anything you'd like to know :)
 - 📫 How to reach me: lennart.heinbokel@justadd.ai
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a big music nerd 🎶
 
-#### 🎙 Ask me about
+#### 🎙 Ask me
 
-> Don't hesitate to contact me regarding one of these topics. I always love to chat about them ;)
+> Don't hesitate to contact me regarding one of these topics. I always love chatting about them
 
-- 🧠 Federated Learning
+- 🧠 Deep learning
 - 👷‍♂️ ML Ops 
 - 🦾 The latest AI architecture
